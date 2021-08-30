@@ -1,13 +1,13 @@
 # Calculadora_VueJS
 
-# Site_VueJS
-
 ![GitHub](https://img.shields.io/github/license/LombaAnderson/Calculadora_VueJS)
-![GitHub repo size](https://img.shields.io/github/repo-size/LombaAnderson/Calculadora_VueJS)
 
 # Sobre o projeto
 
-Site_VueJS é um projeto VueJS que fiz tomando como base o consumo de API já pronta de um colega programador William Costa onde ele cria um projeto VueJS juntamente com Axios.
+Calculadora_VueJS é um projeto exclusivo em VueJS no desenvolvimento de uma simples calculadora que me baseei no canal freeCodeCamp.org. Abaixo se vê duas imagens
+lado a lado da calculadora já pronta.
+
+![calculadora](https://user-images.githubusercontent.com/60937513/131398300-416a1932-905e-413c-b797-0518395c4310.png)
 
 # Tecnologias utilizadas
 ## Back end
@@ -15,14 +15,13 @@ Site_VueJS é um projeto VueJS que fiz tomando como base o consumo de API já pr
 
 
 ## Front end 
-- HTML / CSS/ Vuejs/Axios
-- Axios: Hábil na interceptar requisições(requests) HTTP.
+- HTML / CSS/ Vuejs
 
 Pré-requisitos: npm 
 
 ```bash
 # clonar repositório
-git clone https://github.com/LombaAnderson/Site_VueJS.git
+git clone https://github.com/LombaAnderson/Calculadora_VueJS.git
 
 # instalar dependências
 npm install
@@ -30,7 +29,7 @@ npm install
 ## Como executar o projeto
 
 ## Back end
-Pré-requisitos: NodeJS/Npm/Axios
+Pré-requisitos: NodeJS/Npm
 
 # criar a pasta do projeto no VS Code
 dev-site
@@ -44,12 +43,10 @@ Default ([Vue 2] babel, eslint)
 # executar o projeto no terminal dentro da pasta dev-site
 npm run serve
 
-
-
-________
+____________
 
 Créditos
-https://www.youtube.com/watch?v=m1_ih43p24s
+  "Build a Calculator with Vue.js"    https://www.youtube.com/watch?v=m1_ih43p24s
 
 # Autor
 
