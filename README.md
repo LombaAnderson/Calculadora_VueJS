@@ -3,10 +3,9 @@
 # Site_VueJS
 
 ![GitHub](https://img.shields.io/github/license/LombaAnderson/Calculadora_VueJS)
+![GitHub repo size](https://img.shields.io/github/repo-size/LombaAnderson/Calculadora_VueJS)
 
 # Sobre o projeto
-
-https://www.youtube.com/watch?v=kmsM_hHrDHE
 
 Site_VueJS é um projeto VueJS que fiz tomando como base o consumo de API já pronta de um colega programador William Costa onde ele cria um projeto VueJS juntamente com Axios.
 
@@ -46,30 +45,11 @@ Default ([Vue 2] babel, eslint)
 npm run serve
 
 
-## Recursos para construção do projeto
-
-Mocks de APIs
-
-Esse repositório será o endpoint das APIs do front, então é necessário configurar a seguinte URL como base:
-
-https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/api
-
-A partir dessa URL teremos os seguintes recursos em Json:
-
-    Redes sociais GET /social-links.json
-    Vídeos GET /videos.json
-    Sobre GET /about.json
-    Contatos GET /contacts.json
-
-Redes sociais:
-Instagram: https://instagram.com/wdevoficial
-Facebook: https://facebook.com/wdevoficial
-Twitter: https://twitter.com/wdevoficial
 
 ________
 
 Créditos
-Abertura utiliza vídeos do Pexel (https://www.pexels.com/) dos autores Carlos Arribas, Joseph Redfield e BuildWith Angga
+https://www.youtube.com/watch?v=m1_ih43p24s
 
 # Autor
 
