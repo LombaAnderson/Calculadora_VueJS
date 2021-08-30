@@ -46,8 +46,8 @@ npm run serve
 ___________________________
 
 Créditos
- Todo meu agradecimento ao canal freeCodeCamp.org no endereço "https://www.youtube.com/watch?v=m1_ih43p24s" 
- que explicou com minúcias todo o processo da criação da calculadora em VueJS
+ Todo meu agradecimento ao canal freeCodeCamp.org no endereço "https://www.youtube.com/watch?v=m1_ih43p24s" que explicou 
+ com minúcias todo o processo da criação da calculadora em VueJS
 
 # Autor
 
