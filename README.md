@@ -31,8 +31,11 @@ npm install
 ## Back end
 Pré-requisitos: NodeJS/Npm
 
-# criar a pasta do projeto no VS Code
+# Criar a pasta do projeto no VS Code
 dev-site
+
+# Configurar Vuejs
+npm install -g @vue/cli
 
 # Criar projeto VueJs
 vue create dev-site
